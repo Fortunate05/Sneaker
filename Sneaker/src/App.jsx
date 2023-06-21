@@ -1,7 +1,8 @@
 import './App.css'
-import Header from './Components/Header/Header'
+import Header from './components/Header/Slider'
 import Logo from './components/Logo'
 import Navbar from './components/Navbar'
+import Top from './components/Top'
 
 function App() {
   
@@ -9,6 +10,7 @@ function App() {
   return (
     
       <div>
+        <Top/>
         <Navbar/>
         <Header/>
         
