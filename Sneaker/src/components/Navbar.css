@@ -6,3 +6,9 @@ a
     margin-top: 20px;
     margin-left: 20px;
 }
+
+ul
+{
+   position: absolute;
+   right: 0;
+}
