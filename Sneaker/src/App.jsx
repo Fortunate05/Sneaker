@@ -1,8 +1,9 @@
 import './App.css'
-import Header from './components/Header/Slider'
+import Slider from './components/Header/Slider'
 import Logo from './components/Logo'
 import Navbar from './components/Navbar'
 import Top from './components/Top'
+import Footer from './components/Page/Footer'
 
 function App() {
   
@@ -12,8 +13,8 @@ function App() {
       <div>
         <Top/>
         <Navbar/>
-        <Header/>
-        
+        <Slider/>
+        <Footer/>
       </div>
       
   )
