@@ -6,7 +6,7 @@ function Footer() {
     
     <div class="Footer">
       <footer>
-        © 2020 Copyright:Fortunate Khumalo
+        © 2023 Copyright:Fortunate Khumalo
       </footer>
     </div>
     
