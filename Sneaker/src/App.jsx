@@ -1,9 +1,9 @@
 import './App.css'
 import Slider from './components/Header/Slider'
-import Logo from './components/Logo'
-import Navbar from './components/Navbar'
-import Top from './components/Top'
-import Footer from './components/Page/Footer'
+import Logo from './components/Header/Logo'
+import Navbar from './components/Header/Navbar'
+import Top from './components/Header/Top'
+import Footer from './components/Header/Footer'
 
 function App() {
   
