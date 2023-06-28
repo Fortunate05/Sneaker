@@ -4,6 +4,7 @@ import Logo from './components/Header/Logo'
 import Navbar from './components/Header/Navbar'
 import Top from './components/Header/Top'
 import Footer from './components/Header/Footer'
+import New from './components/Header/New'
 
 function App() {
   
@@ -13,6 +14,7 @@ function App() {
       <div>
         <Top/>
         <Navbar/>
+        <New/>
         <Slider/>
         <Footer/>
       </div>
