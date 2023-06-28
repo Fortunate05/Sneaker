@@ -12,3 +12,21 @@ ul
    position: absolute;
    right: 0;
 }
+.form-control
+{
+    margin-top:15px;
+}
+.centre
+{
+    display: flex;
+    list-style: none;
+    gap: 40px;
+    margin-right: 35%;
+}
+.right
+{
+    display: flex;
+    list-style: none;
+    margin-right: 10px;
+    gap: 12px;
+}

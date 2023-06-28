@@ -4,24 +4,24 @@ import './Top.css';
 function Top() {
     return (
         <>
-            <div>
-                <a href="#" class="d-inline-flex focus-ring py-1 px-2 text-decoration-none border rounded-2">
+            <div className='container'>
+                <a href="#" className="d-inline-flex focus-ring py-1 px-2 text-decoration-none ">
                     Find a store
                 </a>
-                <a href="#" class="d-inline-flex focus-ring py-1 px-2 text-decoration-none border rounded-2">
+                <a href="#" className="d-inline-flex focus-ring py-1 px-2 text-decoration-none">
                     Help
                 </a>
-                <a href="#" class="d-inline-flex focus-ring py-1 px-2 text-decoration-none border rounded-2">
+                <a href="#" className="d-inline-flex focus-ring py-1 px-2 text-decoration-none">
                     Join Us
                 </a>
 
-                <li class="nav-item dropdown">
-                    <a class="nd-inline-flex focus-ring py-1 px-2 text-decoration-none border rounded-2" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                <li className="nav-item dropdown">
+                    <a className="d-inline-flex focus-ring py-1 px-2 text-decoration-none" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
                         Sign IN
                     </a>
-                    <ul class="dropdown-menu">
-                        <li><a class="dropdown-item" href="#">Login</a></li>
-                        <li><a class="dropdown-item" href="#">Register</a></li>
+                    <ul className="dropdown-menu">
+                        <li><a className="dropdown-item" href="#">Login</a></li>
+                        <li><a className="dropdown-item" href="#">Register</a></li>
 
                     </ul>
                 </li>

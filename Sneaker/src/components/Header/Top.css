@@ -1,4 +1,15 @@
-.a{
+
+.container
+{
+    display: flex;
+    list-style: none;
+    gap: 8px;
+    margin-right: -61rem;
+}
+.container > a , .dropdown > a
+{
     color: black;
     font-size: small;
-}
+    border-style: solid;
+    
+} 
