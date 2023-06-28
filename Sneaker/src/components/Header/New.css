@@ -1,4 +1,12 @@
-.container
+.container1
 {
-    background-color: peachpuff;
+    background-color: rgb(12, 12, 12);
+    font-size: small;
+    display: flex;
+    justify-content: center;
+    
+}
+.container1 span{
+    color: white;
+    
 }

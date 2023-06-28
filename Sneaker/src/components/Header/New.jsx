@@ -1,16 +1,15 @@
 import React from 'react'
 import './New.css';
 
-
 function New() {
     return (
         <>
-            <div className='container'>
+            <div className='container1'>
                 <a href="#" className="d-inline-flex focus-ring py-1 px-2 text-decoration-none ">
-                SHOP ALL NEW ARRIVALS
+                <span>SHOP ALL NEW ARRIVALS</span>
                 </a>
                 <a href="#" className="d-inline-flex focus-ring py-1 px-2 text-decoration-none">
-                    Shop
+                    <span>Shop</span>
                 </a>
             </div>
         </>
