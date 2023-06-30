@@ -1,0 +1,28 @@
+.authContainer {
+    display: flex;
+    justify-content: space-between;
+    height: 100vh;
+}
+.authContainer .left {
+    flex: 1;
+    background-image: linear-gradient(to right top, #051b3ccc, #004d7aa5), url(https://source.unsplash.com/random);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    color: whitesmoke;
+}
+p {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+.authContainer .left .lead {
+    font-size: 4rem;
+    font-weight: 100;
+}

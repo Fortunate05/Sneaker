@@ -10,6 +10,7 @@ import {
   createBrowserRouter,
   RouterProvider,
 } from "react-router-dom"
+import Home from './components/Page/Home.jsx'
 
 const router = createBrowserRouter([
   {
@@ -28,6 +29,11 @@ const router = createBrowserRouter([
     path: "/joinus",
     element: <JoinUs/>,
   },
+  {
+    path: "/home",
+    element: <Home/>,
+  },
+
 ]);
 
 ReactDOM.createRoot(document.getElementById('root')).render(
