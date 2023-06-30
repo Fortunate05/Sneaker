@@ -21,7 +21,7 @@ function Top() {
                     </a>
                     <ul className="dropdown-menu">
                         <li><a className="dropdown-item" href="/login">Login</a></li>
-                        <li><a className="dropdown-item" href="#">Register</a></li>
+                        <li><a className="dropdown-item" href="/register">Register</a></li>
 
                     </ul>
                 </li>
