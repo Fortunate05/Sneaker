@@ -20,7 +20,7 @@ function Top() {
                         Sign IN
                     </a>
                     <ul className="dropdown-menu">
-                        <li><a className="dropdown-item" href="#">Login</a></li>
+                        <li><a className="dropdown-item" href="/login">Login</a></li>
                         <li><a className="dropdown-item" href="#">Register</a></li>
 
                     </ul>
