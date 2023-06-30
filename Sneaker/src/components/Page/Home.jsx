@@ -5,7 +5,7 @@ function Home() {
   return (
     <div>
       <div class="authContainer">
-        <div class="left"><p class="lead">Welcome to Takkies </p>
+        <div class="left"><p class="lead">Welcome to Khumalo Sneaker </p>
         </div>
       </div>
       </div>
