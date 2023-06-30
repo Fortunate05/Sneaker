@@ -11,7 +11,7 @@ function Top() {
                 <a href="#" className="d-inline-flex focus-ring py-1 px-2 text-decoration-none">
                     Help
                 </a>
-                <a href="#" className="d-inline-flex focus-ring py-1 px-2 text-decoration-none">
+                <a href="/Joinus" className="d-inline-flex focus-ring py-1 px-2 text-decoration-none">
                     Join Us
                 </a>
 

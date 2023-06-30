@@ -4,6 +4,8 @@ import App from './App.jsx'
 import './index.css'
 import Login from './components/Page/Login.jsx'
 import Register from './components/Page/Register.jsx'
+import JoinUs from './components/Page/joinUs.jsx'
+
 import {
   createBrowserRouter,
   RouterProvider,
@@ -23,8 +25,8 @@ const router = createBrowserRouter([
     element: <Register/>,
   },
   {
-    path: "/",
-    element: "",
+    path: "/joinus",
+    element: <JoinUs/>,
   },
 ]);
 
